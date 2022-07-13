@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 捐助 / Donate
-description: 随缘
+description: ML, DL, HPC
 keywords: Donate
 comments: true
 menu: 赞助
@@ -14,7 +14,7 @@ permalink: /donate/
 
 ## Paypal
 
-[Donate via Paypal](https://paypal.me/mzlogin)
+[Donate via Paypal](https://paypal.me/Carrawayang)
 
 ## 微信 / Wechat
 
