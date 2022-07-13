@@ -81,9 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Carrawayang"
-  avatar           : "profile.png"
+  avatar           : "n-body.jpeg"
+  favicon          : "bitbug_favicon.ico"
   bio              : "B.eng"
-  location         : "HTU,Henan"
+  location         : "Henan Normal University, Henan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
