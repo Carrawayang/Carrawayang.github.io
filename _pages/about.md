@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Carrawayang" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Carrawayang on GitHub">Follow @Carrawayang</a>
 {% include base_path %}
 
 
@@ -36,7 +37,7 @@ redirect_from:
 
 - August 2020 -- May 2021, Big data engineering training, Beijing Pactera Technology Co., Ltd, Beijing.
 
-[Edu-platform](https://gitee.com/Carrawayang/edu_platform) Distributed architecture and upgrade optimization technology for large-scale systems.
+[Edu-platform](https://github.com/Carrawayang/edu_platform) Distributed architecture and upgrade optimization technology for large-scale systems.
 
 Big data offline processing application technology and system implementation, Development and implementation of large-scale Internet education platform based on microservice architecture.
 
@@ -44,7 +45,7 @@ Big data offline processing application technology and system implementation, De
 
 [Array Mat ](https://www.cnblogs.com/Carrawayang/p/13775492.html) Toy-level neural network calculation module, based on a one-dimensional variable-length array to achieve high-dimensional matrices to achieve matrix operations in neural networks, implementing high-dimensional matrices through one-dimensional variable-length arrays can reduce compilation difficulty and improve code execution efficiency.
 
-[Mnist-recognition](https://gitee.com/Carrawayang/mnist-recognization) Build a CNN network and use Qt5 to realize handwritten digit recognition based on the Mnist data set, use deep convolutional network and Opencv to achieve image recognition, use Mnist handwritten digit data set, use Qt to implement GUI, realize two modes of handwritten digit recognition and data set extraction test.
+[Mnist-recognition](https://github.com/Carrawayang/mnist-recognization) Build a CNN network and use Qt5 to realize handwritten digit recognition based on the Mnist data set, use deep convolutional network and Opencv to achieve image recognition, use Mnist handwritten digit data set, use Qt to implement GUI, realize two modes of handwritten digit recognition and data set extraction test.
 
 [IMS-1.0](https://www.cnblogs.com/Carrawayang/p/13775492.html) Use Flask to implement web pages and functions, use Tkinter to implement GUI, and use SVD-based methods to implement face recognition login, database support based on Mysql, use multi-table operation and multi-table query.
 
