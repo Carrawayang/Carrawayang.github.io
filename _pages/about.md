@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Place this tag in your head or just before your close body tag. -->
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Carrawayang" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Carrawayang on GitHub">Follow @Carrawayang</a>
+
 {% include base_path %}
 
 
