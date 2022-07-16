@@ -18,6 +18,7 @@ redirect_from:
 - Jul. 2018 - Sep. 2022, Bachelor Degree of Computer Science, Henan Normal University
 
 ## Updates and News
+- [2022/07/15] [Other mirror links on this site](https://cay-one.vercel.app/)
 
 - [2022/07/01] Graduated!
 
@@ -59,4 +60,4 @@ Skills
 ======
 * Programming: Java, Python, Latex, Matlab, C++
 
-<a href="https://clustrmaps.com/site/1bpbh"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=XvzlRLpU2P20oSqFvhbhFCLIgi_hWMunExrIbuwhrPQ&cl=ffffff" height="200" width="200" /> </center>
+<a href="https://clustrmaps.com/site/1bpdo"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=H6tLzjFYVpTxMgP3h_KHtGeH9jve38SteMCEVApkrMo&cl=ffffff" /></a>
